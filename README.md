@@ -49,7 +49,8 @@ For an anchor tag, we use an attribute called `href` that holds the web address 
 <a href="https://www.codenation.org">Code Nation!</a>
 ```
 
-In this example, "Code Nation!" is what we'll see and click on the webpage, and "https://www.codenation.org" is where we'll go when we click it.<br>
+In this example, "Code Nation!" is what we'll see and click on the webpage, and "https://www.codenation.org" is where we'll go when we click it.
+<br>
 
 ### Picture Time with `<img>` tag
 
@@ -64,7 +65,7 @@ Here's what it looks like:
 ```
 
 Oh, and one more thing. Unlike most tags, the `<img>` tag doesn't need a closing tag. It's what we call a **self-closing tag**.
-
+<br>
 
 
 ## Coding Practice
