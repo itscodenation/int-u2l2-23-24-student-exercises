@@ -34,6 +34,7 @@ Let's explore some HTML tags you might not have been familiar with. Take a look 
 ## Anchor and Image Tags
 
 Wow, you did great with those `<h1>` and `<p>` tags! Now, let's have some fun with other cool tags – `<a href…>` and `<img src…>` tags. 
+<br>
 
 ### Did you say anchor?
 
@@ -51,6 +52,7 @@ For an anchor tag, we use an attribute called `href` that holds the web address 
 
 In this example, "Code Nation!" is what we'll see and click on the webpage, and "https://www.codenation.org" is where we'll go when we click it.
 <br>
+<br>
 
 ### Picture Time with `<img>` tag
 
@@ -65,7 +67,6 @@ Here's what it looks like:
 ```html
 <img src="https://www.example.com/image.jpg">
 ```
-<br>
 
 
 ## Coding Practice
