@@ -14,13 +14,11 @@
 
 ## Getting Started
 
-- Icebreaker: (LEAD VOL ADD HERE)
-- Set up a name tent.
 - Login to Google Classroom for today’s lesson.
 
 ## Do Now
 
-For today's activity, you will be editing a website about sloths which is missing some information. Open the Popcode/Replit provided:
+For today's activity, you will be editing a website about sloths which is missing some information. Open the index.html file and complete these tasks:
 
 - Create an `<h1>` tag which says “Sloths!”
 - Create a `<p>` tag which says “Sloths are the slowest animal in the world”
