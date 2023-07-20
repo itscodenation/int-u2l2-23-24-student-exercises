@@ -58,13 +58,13 @@ The `<img>` tag allows us to add an image to our website. But how does it know w
 
 Just like the anchor tag uses the `href` attribute, the `<img>` tag uses an attribute called `src` (short for source). The `src` attribute holds the address of the image we want to show.
 
+Unlike most tags, the `<img>` tag doesn't need a closing tag. It's what we call a **self-closing tag**.
+
 Here's what it looks like:
 
 ```html
 <img src="https://www.example.com/image.jpg">
 ```
-
-Oh, and one more thing. Unlike most tags, the `<img>` tag doesn't need a closing tag. It's what we call a **self-closing tag**.
 <br>
 
 
