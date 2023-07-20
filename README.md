@@ -37,7 +37,7 @@ Wow, you did great with those `<h1>` and `<p>` tags! Now, let's have some fun wi
 
 ### Did you say anchor?
 
-Yes! The `<a href…>` tag is like a magic portal on a webpage. It's called an **anchor tag**, and it lets us hop around from one web page to another, or even different parts of the same page. Cool, right?
+Yes! The `<a href…>` tag is like a magic portal on a webpage. It's called an **anchor tag**, and it lets us hop around from one web page to another, or even different parts of the same page.
 
 When you see a clickable word or picture on a webpage that takes you somewhere else when you click it, that's an anchor tag doing its thing!
 
@@ -46,14 +46,14 @@ But how does the anchor tag know where to take us? That's where **attributes** c
 For an anchor tag, we use an attribute called `href` that holds the web address (URL) of where we want to go. It looks something like this: 
 
 ```html
-<a href="https://www.example.com">Click me!</a>
+<a href="https://www.codenation.org">Code Nation!</a>
 ```
 
-In this example, "Click me!" is what we'll see and click on the webpage, and "https://www.example.com" is where we'll go when we click it.
+In this example, "Code Nation!" is what we'll see and click on the webpage, and "https://www.codenation.org" is where we'll go when we click it.<br>
 
-### Picture Time with `<img>` tag!
+### Picture Time with `<img>` tag
 
-Now, who doesn't love pictures, right? The `<img>` tag allows us to add an image to our website. But how does it know which image to show? 
+The `<img>` tag allows us to add an image to our website. But how does it know which image to show? 
 
 Just like the anchor tag uses the `href` attribute, the `<img>` tag uses an attribute called `src` (short for source). The `src` attribute holds the address of the image we want to show.
 
@@ -65,7 +65,7 @@ Here's what it looks like:
 
 Oh, and one more thing. Unlike most tags, the `<img>` tag doesn't need a closing tag. It's what we call a **self-closing tag**.
 
-Are you ready to try these tags out? Let's do this!
+
 
 ## Coding Practice
 
