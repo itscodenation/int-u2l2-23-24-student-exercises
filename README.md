@@ -1,4 +1,4 @@
-# Leeson 2.2: HTML Tags w/ Attributes
+# Lesson 2.2: HTML Tags w/ Attributes
 
 ### 🎯 Objectives
 - Create HTML elements with attributes to add links and images to their pages.
