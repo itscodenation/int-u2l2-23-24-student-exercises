@@ -7,10 +7,9 @@
 
 1. [Getting Started](#getting-started)
 2. [Do Now](#do-now)
-3. [Code Exploration](#code-exploration)
-4. [Anchor and Image Tags](#anchor-and-image-tags)
-5. [Coding Practice](#coding-practice)
-6. [Exit Ticket & Closing](#exit-ticket-closing)
+3. [Anchor and Image Tags](#anchor-and-image-tags)
+4. [Coding Practice](#coding-practice)
+5. [Exit Ticket & Closing](#exit-ticket-closing)
 
 ## Getting Started
 
@@ -22,14 +21,6 @@ For today's activity, you will be editing a website about sloths which is missin
 
 - Create an `<h1>` tag which says “Sloths!”
 - Create a `<p>` tag which says “Sloths are the slowest animal in the world”
-
-## Code Exploration
-
-Let's explore some HTML tags you might not have been familiar with. Take a look at the tags that say `<a href…>` and `<img src…>`:
-
-- What do you think these tags are doing?
-- How do these tags look different from the `<p>` tags and `<h1>` tags?
-- For a little challenge: Based on what you see in the code, try to change the YouTube video OR the image.
 
 ## Anchor and Image Tags
 
