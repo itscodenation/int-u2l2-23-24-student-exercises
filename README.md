@@ -76,7 +76,7 @@ Let's open up our coding environment and practice writing some anchor and image 
 
 ## Exit Ticket & Closing
 
-As we wrap up our session, remember to submit your updated project to Google Classroom.
+As we wrap up our session, remember to complete and submit the exit ticket and submit to Google Classroom.
 
 ---
 
